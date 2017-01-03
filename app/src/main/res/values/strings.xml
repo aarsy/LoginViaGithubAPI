@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Login via Github</string>
+    <string name="search_result">SearchResult</string>
+    <string name="search_hint">Search</string>
+    <string name="menu_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="clone_url">Clone Url</string>
+    <string name="forks">Forks count</string>
+    <string name="stars_count">Stargazers count</string>
+    <string name="repo_name">Repository name</string>
+    <string name="description">Description</string>
+    <string name="open_issues_count">Open issues count</string>
+    <string name="nointernet">No Internet Connection</string>
+    <string name="checkconnection">Please check your internet Connection !</string>
+    <string name="delete">Delete</string>
+    <!--<string name="client_id">Enter Client id generated via github</string>-->
+    <!--<string name="client_secret">Enter Client secret generated via github</string>-->
+</resources>
