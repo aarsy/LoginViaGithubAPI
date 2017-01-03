@@ -16,7 +16,7 @@ Before running this app in your mobile phones do following steps:<br>
 If you still face some issues them create a issue from above section. I would be happy to help you.
 <br>
 #Screenshots<br>
-<img src="/Screenshots/Sample1.png" width="30%" height=70%> | <img src="/Screenshots/Sample2" width="30%" height=70%> | <img src="/Screenshots/Sample3" width="30%" height=70%> | <img src="/Screenshots/Sample4" width="30%" height=70%> | <img src="/Screenshots/Sample5" width="30%" height=70%> | <img src="/Screenshots/Sample6" width="30%" height=70%> | <img src="/Screenshots/Sample7" width="30%" height=70%> | <img src="/Screenshots/Sample8" width="30%" height=70%> | <img src="/Screenshots/Sample9" width="30%" height=70%> | <img src="/Screenshots/Sample10" width="30%" height=70%>
+<img src="/Screenshots/Sample1.png" width="30%" height=70%> | <img src="/Screenshots/Sample2.png" width="30%" height=70%> | <img src="/Screenshots/Sample3.png" width="30%" height=70%> | <img src="/Screenshots/Sample4.png" width="30%" height=70%> | <img src="/Screenshots/Sample5.png" width="30%" height=70%> | <img src="/Screenshots/Sample6.png" width="30%" height=70%> | <img src="/Screenshots/Sample7.png" width="30%" height=70%> | <img src="/Screenshots/Sample8.png" width="30%" height=70%> | <img src="/Screenshots/Sample9.png" width="30%" height=70%> | <img src="/Screenshots/Sample10.png" width="30%" height=70%>
 
 
 
