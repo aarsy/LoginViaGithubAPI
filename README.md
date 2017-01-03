@@ -15,7 +15,9 @@ Before running this app in your mobile phones do following steps:<br>
 <br>
 If you still face some issues them create a issue from above section. I would be happy to help you.
 <br>
-You can also view screenshots in the "Screenshots folder"
+#Screenshots<br>
+<img src="/Screenshots/Sample1.png" width="30%" height=70%> | <img src="/Screenshots/Sample2" width="30%" height=70%> | <img src="/Screenshots/Sample3" width="30%" height=70%> | <img src="/Screenshots/Sample4" width="30%" height=70%> | <img src="/Screenshots/Sample5" width="30%" height=70%> | <img src="/Screenshots/Sample6" width="30%" height=70%> | <img src="/Screenshots/Sample7" width="30%" height=70%> | <img src="/Screenshots/Sample8" width="30%" height=70%> | <img src="/Screenshots/Sample9" width="30%" height=70%> | <img src="/Screenshots/Sample10" width="30%" height=70%>
+
 
 
 
